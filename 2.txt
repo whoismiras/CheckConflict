@@ -1,10 +1,7 @@
  Comment from Kymbat
 1231 qsdasd
 
-<<<<<<< HEAD
 123123
 sdhkgfsyj
 132123
-=======
-123
->>>>>>> main
+
